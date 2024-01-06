@@ -13,7 +13,7 @@ const IconLogo = () => (
           strokeLinejoin="round"
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
-        <text x="28" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
+        <text x="28.7" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
           J
         </text>
       </g>
