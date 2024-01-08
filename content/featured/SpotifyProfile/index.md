@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Dropform'
+cover: './form-elements.png'
+github: 'https://github.com/Jittojoyes98/Dropform'
+external: 'https://dropform.vercel.app/'
 tech:
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Material UI
+  - Supabase
+  - Zustand
+  - Dnd Kit
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A drag and drop form generator with custom properties. View your forms, drag widgets to create each form fields , edit properties according to your needs and generate forms. Create and delete forms based on the particular usecases.

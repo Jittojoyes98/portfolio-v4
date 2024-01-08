@@ -1,6 +1,6 @@
 ---
 date: '2017-12-21'
-title: 'Frontend Developer'
+title: 'Frontend Developer Intern'
 company: 'Xena Intelligence'
 location: 'Kochi, IN'
 range: 'November - December 2021'
