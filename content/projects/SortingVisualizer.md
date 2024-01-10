@@ -1,5 +1,5 @@
 ---
-date: '2019-07-15'
+date: '2020-07-15'
 title: 'Sorting Visualizer'
 github: 'https://github.com/Jittojoyes98/Sorting-Visualizer'
 external: 'https://sortingappvisuliser.netlify.app/'

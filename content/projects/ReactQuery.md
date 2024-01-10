@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2023-12-01'
 title: 'Introduction to react query'
 github: ''
 external: 'https://jittojoyes.hashnode.dev/introduction-to-react-query'

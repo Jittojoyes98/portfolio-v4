@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2021-12-29'
 title: 'Album'
 github: 'https://github.com/Jittojoyes98/Album'
 external: 'https://album-react.netlify.app/'

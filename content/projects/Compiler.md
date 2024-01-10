@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2021-11-12'
 title: 'Compiler'
 github: 'https://github.com/Jittojoyes98/Compiler'
 external: 'https://visionary-compiler.netlify.app/'

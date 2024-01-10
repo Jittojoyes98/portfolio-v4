@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2022-01-10'
 title: 'Get random suggestions'
 github: 'https://github.com/Jittojoyes98/get-random-suggestions'
 external: 'https://www.npmjs.com/package/get-random-suggestions'

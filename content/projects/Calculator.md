@@ -1,5 +1,5 @@
 ---
-date: '2016-11-01'
+date: '2021-11-01'
 title: 'Calculator'
 github: 'https://github.com/Jittojoyes98/Calculator'
 external: 'https://nervous-yonath-6b7543.netlify.app/'
